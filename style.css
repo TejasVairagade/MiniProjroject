@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#T1{
+    background-color: #FFCD9E;
+    height: 70vh;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+
+}
+#L{
+    height: 100vh;
+    width: 65vw;
+    justify-content: center;
+}
+#l1{
+    width: 40vw;
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 25px;
+}
+#l2{
+    width: 40vw;
+    margin-left: 20%;
+    padding: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#l3{
+    width: 40vw;
+    margin-left: 20%;
+    padding: 25px;
+}
+#l4{
+    width: 40vw;
+    margin-left: 20%;
+    padding: 15px;
+    
+}
+input{
+    background-color: black;
+    color: azure;
+    width: 17vw;
+    height: 40px;
+    border-radius: 15px;
+}
+#R{
+    height: 100vh;
+    width: 35vw;
+    justify-content: center;
+    padding-top: 30px;
+}
+#T2{
+    background-color:#282828;
+    height: 30vh;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+#TL{
+    padding-top: 35px;
+    padding-left: 15%;
+    width: 50vw;
+}
+#a1{
+    text-align: left;
+    color: azure;
+    margin: 15px;
+}
+#a2{
+    text-align: left;
+    color: azure;
+    margin: 15px;
+}
+#a3{
+    text-align: left;
+    color: azure;
+    margin: 15px;
+}
+#a4{
+    text-align: left;
+    color: azure;
+    margin: 15px;
+}
+#a5{
+    text-align: left;
+    color: azure;
+    margin: 15px;
+}
+#TR{
+    padding-top: 35px;
+    padding-right: 7%;
+    width: 50vw;
+}
+#b1{
+    text-align: right;
+    margin:15px;
+    color: azure;
+}
+#b2{
+    text-align: right;
+    margin:15px;
+    color: azure;
+}
+#b3{
+    justify-items: right;
+    margin:15px;
+    display: flex;
+    padding-left: 85%;
+}
+#b4{
+    text-align: right;
+    margin:15px;
+    color: azure;
+}
